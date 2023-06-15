@@ -5,7 +5,9 @@ we made this project as a simple example to improve internet safety for children
   <img alt="--" src="pa.jpg" width="20%" hight="20%" >
 </picture>
 </p>
-## main idea
+
+## Main Idea
+
 If a *child* would like access to social media, he must get his/her mother's or father's *face ID* in order to access it. As awareness for the parent to know that their child is using social media.
 
 ## How it operates
